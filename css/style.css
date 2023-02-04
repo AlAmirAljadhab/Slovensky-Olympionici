@@ -1,0 +1,104 @@
+body{
+    padding-right: -20px;
+    background-color: #fff;
+    height: 1050px;
+    width: 1900px;
+}
+html{
+    position: relative;
+}
+li, a, button{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+#home{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    transition: 0.5s;
+}
+
+.content{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    translate: 0px 200px;
+    margin-top: -150px;
+}
+/*textbox style*/
+.content .textbox{
+    position: relative;
+    max-width: 550px;
+    translate: 0px 40px;
+    margin-left: 200px;
+}
+
+.content .textbox h3{
+  color: #111;
+  font-size: 2.5em;
+  line-height: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  margin-left: 40px;
+}
+
+.content .textbox h2{
+    color: #111;
+    font-size: 3em;
+    line-height: 1em;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 40px;
+}
+
+.content .textbox h1{
+  color: #111;
+  font-size: 4em;
+  line-height: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  margin-left: 40px;
+}
+
+.content .textbox p{
+    margin-left: 40px;
+    color: #111;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.25em;
+}
+
+/* Vsetci Olympionici button */
+.content .textbox a{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    text-align: center;
+    background: #111;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 40px;
+}
+.content .textbox a:hover{
+    background: #0088a9;
+    transition: all 0.3s ease 0s;
+}
+* {box-sizing:border-box}
+
+

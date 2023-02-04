@@ -1,0 +1,26 @@
+footer {
+  position: absolute;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+/* Add some padding to the footer */
+footer {
+  padding: 10px;
+}
+
+/* Style the footer links */
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer .autor {
+  padding-left: 810px;
+  font-family: "Montserrat", sans-serif;
+  font-size: large;
+} 
+footer .cpyright {
+  padding-left: 825px;
+  font-family: "Montserrat", sans-serif;
+} 
