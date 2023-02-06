@@ -24,7 +24,6 @@ li, a, button{
     background: #fff;
     transition: 0.5s;
 }
-
 .content{
     position: relative;
     width: 100%;
@@ -100,5 +99,7 @@ li, a, button{
     transition: all 0.3s ease 0s;
 }
 * {box-sizing:border-box}
-
+h3{
+    color: #219ebc;
+}
 

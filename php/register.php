@@ -127,7 +127,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <span class="invalid-feedback"><?php echo $confirm_password_err; ?></span>
             </div>
             <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Registrácia"> <!-- Treba zistit ako je submit po slovensky -->
+                <input type="submit" class="btn btn-primary" value="Odoslať"> 
                 <input type="reset" class="btn btn-secondary ml-2" value="Reset">
             </div>
             <p>Už máte účet? <a href="login.php">Prihláste sa tu</a>.</p>

@@ -17,12 +17,12 @@
               <div class="row">
                 <!--image card start-->
                 <div class="image">
-                  <img src="..//img/petrra vhova.jpg" alt="">
+                  <img src="..//img/petrravhova.jpg" alt="">
                   <div class="details">
                     <h2>Petra <span>Vlhová</span></h2>
                     <p>Držiteľka zlata na zimnej olympiade v Pekingu 2022.</p>
                     <div class="more">
-                      <a href="#" class="read-more">Zisti <span>Viac</span></a>
+                      <a href="./petravlhova.php" class="read-more">Zisti <span>Viac</span></a>
                       <div class="icon-links">
                         <a href="#"><i class="fas fa-heart"></i></a>
                         <a href="#"><i class="fas fa-eye"></i></a>
@@ -34,12 +34,12 @@
                 <!--image card end-->
                 <!--image card start-->
                 <div class="image">
-                  <img src="..//img/rychly chodec.jpg" alt="">
+                  <img src="..//img/rychlychodec.jpg" alt="">
                   <div class="details">
                     <h2>Matej <span>Tóth</span></h2>
                     <p>Držiteľ zlata na letnej olympiáde v Riu 2016.</p>
                     <div class="more">
-                      <a href="#" class="read-more">Zisti <span>Viac</span></a>
+                      <a href="./matejtoth.php" class="read-more">Zisti <span>Viac</span></a>
                       <div class="icon-links">
                         <a href="#"><i class="fas fa-heart"></i></a>
                         <a href="#"><i class="fas fa-eye"></i></a>
@@ -56,7 +56,7 @@
                     <h2>Peter <span>Hochschrorner</span></h2>
                     <p>Držiteľia zlata na letnej olympiáde v Pekingu 2008</p>
                     <div class="more">
-                      <a href="#" class="read-more">Zisti <span>Viac</span></a>
+                      <a href="./bratia.php" class="read-more">Zisti <span>Viac</span></a>
                       <div class="icon-links">
                         <a href="#"><i class="fas fa-heart"></i></a>
                         <a href="#"><i class="fas fa-eye"></i></a>

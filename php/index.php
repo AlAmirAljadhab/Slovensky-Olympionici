@@ -22,13 +22,6 @@
                 </p>
                 <a href="Reprezentanti.php">Všetci Olympionici</a>
             </div>
-      <!--image card layout end-->
-            <!-- icons
-            < class="thumb">
-                <li><img src="/img/Untitled-1.png" alt="golden medal" onclick="imgSlider('/img/Untitled-1.png');"></li>
-                <li><img src="/img/Untitled-2.png" alt="silver medal" onclick="imgSlider('/img/Untitled-2.png');"></li>
-                <li><img src="/img/Untitled-3.png" alt="bronze medal" onclick="imgSlider('/img/Untitled-3.png');"></li>
-            -->
         </div>
     </section>
     <section class="image-cards">
@@ -38,12 +31,12 @@
               <div class="row">
                 <!--image card start-->
                 <div class="image">
-                  <img src="..//img/petrra vhova.jpg" alt="">
+                  <img src="..//img/petrravhova.jpg" alt="">
                   <div class="details">
                     <h2>Petra <span>Vlhová</span></h2>
                     <p>Petra Vlhová vyhráva zlato na Olympiáde v Pekingu 2022 v slalome na lyžiach.</p>
                     <div class="more">
-                      <a href="#" class="read-more">Zisti <span>Viac</span></a>
+                      <a href="./petravlhova.php" class="read-more">Zisti <span>Viac</span></a>
                       <div class="icon-links">
                         <a href="#"><i class="fas fa-heart"></i></a>
                         <a href="#"><i class="fas fa-eye"></i></a>
@@ -55,12 +48,12 @@
                 <!--image card end-->
                 <!--image card start-->
                 <div class="image">
-                  <img src="..//img/rychly chodec.jpg" alt="">
+                  <img src="..//img/rychlychodec.jpg" alt="">
                   <div class="details">
                     <h2>Matej <span>Tóth</span></h2>
                     <p>Matej Tóth vyhral zlato na Olympiáde v Riu 2016 v chôdzi na 50km.</p>
                     <div class="more">
-                      <a href="#" class="read-more">Zisti <span>Viac</span></a>
+                      <a href="./matejtoth.php" class="read-more">Zisti <span>Viac</span></a>
                       <div class="icon-links">
                         <a href="#"><i class="fas fa-heart"></i></a>
                         <a href="#"><i class="fas fa-eye"></i></a>
@@ -77,7 +70,7 @@
                     <h2>Peter <span>Hochschrorner</span></h2>
                     <p>Bratia Hochschrornerovci vyhrávaju zlato na Olympiáde v Pekingu 2008 v slalome na Kanoe.</p>
                     <div class="more">
-                      <a href="#" class="read-more">Zisti <span>Viac</span></a>
+                      <a href="./bratia.php" class="read-more">Zisti <span>Viac</span></a>
                       <div class="icon-links">
                         <a href="#"><i class="fas fa-heart"></i></a>
                         <a href="#"><i class="fas fa-eye"></i></a>
@@ -96,6 +89,3 @@
 </footer>
 </body>
 </html>
-
-<script src="..//JS/js.js"> 
-</script>
