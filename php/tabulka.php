@@ -66,9 +66,9 @@
             </thead>
         </table>
     </div>
-<footer>
+ <footer>
     <p class="cpyright">Copyright &copy; DSO</p>
     <p class="autor">Autor: Denis Lukac</p>
-</footer>
+ </footer>
 </body>
 </html>

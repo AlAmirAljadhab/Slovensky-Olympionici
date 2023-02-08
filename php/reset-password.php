@@ -76,6 +76,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <meta charset="UTF-8">
     <title>Obnova Hesla</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="reset.css">
     <style>
         body{ font-family: "Montserrat", sans-serif; }
         .wrapper{ width: 360px; padding: 20px; }
