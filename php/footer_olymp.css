@@ -1,0 +1,27 @@
+footer {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+  }
+  
+  /* Add some padding to the footer */
+  footer {
+    padding: 10px;
+  }
+  
+  /* Style the footer links */
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+  footer .autor {
+    font-family: "Montserrat", sans-serif;
+    font-size: large;
+  } 
+  footer .cpyright {
+    font-family: "Montserrat", sans-serif;
+  }

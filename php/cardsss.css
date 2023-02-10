@@ -1,0 +1,53 @@
+.card {
+    width: calc(25% - 20px);
+    float: left;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 30px;
+  }
+.container {
+    position: relative;
+}
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+.card h2 {
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+  footer {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+  }
+/*  
+  
+  footer {
+    padding: 10px;
+  }
+  
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+  footer .autor {
+    font-family: "Montserrat", sans-serif;
+    font-size: large;
+  } 
+  footer .cpyright {
+    font-family: "Montserrat", sans-serif;
+  }*/

@@ -74,7 +74,7 @@ button:hover{
         <nav>
             <ul class="navlinks">
                 <li><a href="index.php">Domov</a></li>
-                <li><a href="Reprezentanti.php">Olympionici</a></li>
+                <li><a href="Olympionici.php">Olympionici</a></li>
                 <li><a href="tabulka.php">Tabulka</a></li>
                 <li><a href="login.php">Prihlásenie</a></li>
             </ul>
